@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mayra</string>
+    <string name="assistant_title">Mayra</string>
+    <string name="assistant_subtitle">Your witty voice companion</string>
+    <string name="channel_name">Mayra Voice Service</string>
+    <string name="channel_desc">Active background voice interaction with Mayra</string>
+    <string name="notification_title">Mayra is listening</string>
+    <string name="notification_text">Background voice session active</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_mute">Mute</string>
+    <string name="action_unmute">Unmute</string>
+</resources>
